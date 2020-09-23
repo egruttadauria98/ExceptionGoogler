@@ -1,0 +1,5 @@
+requests
+bs4
+google
+fabulous
+Pillow==7.2.0
